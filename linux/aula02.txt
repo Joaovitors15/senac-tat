@@ -1,0 +1,146 @@
+terminal: bash / shell script 
+$ = usuario comum;
+# = super usuario
+====================================================================================================================
+comandos de manipulação de diretórios
+
+ls = listar arquivos ou diretório
+ls -lh  
+ls -lha
+cd = mudar de diretórios
+tmp marca texto verde perigo
+cor azul clarinha atalho 
+cd ~ voltar para o diretórios pessoal 
+pwd = qual diretórios vocÊ esta
+cd - = voltar um diretórios anterior 
+cd .. = descer um nivel 
+history 
+   ! = execultar o comando da linha de referencia 
+mkdir = comando para criar diretórios
+  mkdir  -v = verboso 
+  ajuda dos comandos 
+   -- help 
+    man 
+rm- remove diretório
+   -f = forçar 
+   -v = verboso
+  -r = recursivo
+=========================================================================================================================================================
+1  sudo apt update
+    2  sudo apt update
+    3  sudo apt install git
+    4  sudo apt git vim python2 python3
+    5  s
+    6  git s
+    7  sudo apt install git 
+    8  sudo apt install git vim python2 python3
+    9  id
+   10  sudo -i
+   11  ls
+   12  LS
+   13  ls
+   14  ls -lh
+   15  ls -a
+   16  ls -lha
+   17  cd
+   18  cd -d
+   19  cd /
+   20  cd/
+   21  cd /
+   22  ls
+   23  lh -lha
+   24  ls -lha
+   25  cd /
+   26  cd \
+   27  cd -
+   28  pwd
+   29  cd -
+   30  cd ~
+   31  cd -
+   32  pwd
+   33  ls
+   34  cd Doc
+   35  cd Documentos/
+   36  cd /
+   37  cd home/
+   38  cd home/senac/D
+   39  cd /
+   40  cd home/
+   41  cd /
+   42  cd ~/Documentos/
+   43  pwd
+   44  cd ..
+   45  pwd
+   46  cd ..
+   47  history
+   48  cd home/senac/D
+   49  cd 
+   50  /D
+   51  /Documentos
+   52  ls
+   53  ls lha
+   54  ls /D
+   55  history
+   56  cd ~/Documentos/
+   57  mkdir senac
+   58  ls
+   59  mkdir -v
+   60  mkdir -v tatuape
+   61  cd ~/Documentos/
+   62  mkdir -v tatuape
+   63  ls
+   64  cd 
+   65  cd ~/Documentos/
+   66  mkdir -v tatuape
+   67  ls
+   68  cd senac/
+   69  mkdir  -v alisson andrew arthur bruno 
+   70  mkdir  -v alisson andrew arthur bruno caio
+   71  ls
+   72  ls -lh
+   73  mkdir -v SENAC tatuape
+   74  lh
+   75  ls
+   76  ls -lh
+   77  mkdir -v SENAC tatuapé
+   78  ls
+   79  mkdir -v SENAC tatuapé
+   80  ls
+   81  mkdir -v SENACtatuapé
+   82  ls
+   83  mkdir -v " SENAC tatuapé"
+   84  ls
+   85  ls -lh
+   86  E
+   87  history
+   88  cd /
+   89  ! 56
+   90  cd ~/Documentos/
+   91  mkdir -v senac
+   92  cd senac/
+   93  mkdir -v tat/ info/
+   94  mkdir -v tat/ info/ tst/ est/ amd/
+   95  ls
+   96  cd senac/ cd ta
+   97  cd senac/ cd tat
+   98  cd tat/
+   99  mkdir -v info/ tst/ est/ amd/
+  100  ls
+  101  cd ..
+  102  ls
+  103  mkdir -v tat/ info/ tst/ est/ amd/
+  104  rm alisson
+  105  rm -fv alisson
+  106  rm -Rfv alisson
+  107  rm -Rfv alisson/ arthur/ bruno/ caio/
+  108  rm -Rfv andrew
+  109  exit
+  110  history
+
+
+
+
+
+
+
+
