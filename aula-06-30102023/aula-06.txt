@@ -1,0 +1,20 @@
+terminal: ctrl + alt + t 
+
+terminal: ctrl + alt + t
+cd - mudar de diretorio 
+ls- listar arquivos diretorios 
+mkdir - criar diretorios 
+pwd - listar o diretorio atual 
+rm - remover arquivos ou diretorios 
+echo - ultilizamos para imprimir na tela o conteúdo 
+cat - imprime o conteúdo sem abir ele
+touch - muda a hora e data do arquivo 
+cat -n montra quantas linhas tem o arquivo 
+cp - copiar arquivo ou diretorio
+mv - mover arquivo ou diretorio (renomear)
+> - redirecionador de saida
+>> redirecionador de saida adicionando 
+- redirecionar a saida de outro comando 
+tac - lista o conteúdo do arquivo invertido 
+less - leitor de arquivos 
+head- lista o inicio do arquivo
